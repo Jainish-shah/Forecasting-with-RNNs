@@ -4,4 +4,3 @@
 
 RNN requires 3D inputs, batchesize, number of time steps & dimensionality of input.
 - Recurrent layers use hyperbolic tangent activation function as it outputs the values between -1 and 1.
-- 
